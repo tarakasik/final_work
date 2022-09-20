@@ -1,0 +1,15 @@
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\bin\Debug\net6.0\final_work.exe
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\bin\Debug\net6.0\final_work.deps.json
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\bin\Debug\net6.0\final_work.runtimeconfig.json
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\bin\Debug\net6.0\final_work.dll
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\bin\Debug\net6.0\final_work.pdb
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.csproj.AssemblyReference.cache
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.AssemblyInfoInputs.cache
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.AssemblyInfo.cs
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.csproj.CoreCompileInputs.cache
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.dll
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\refint\final_work.dll
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.pdb
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\final_work.genruntimeconfig.cache
+C:\Users\Tarakas\Desktop\Last Homework C#\final_work\obj\Debug\net6.0\ref\final_work.dll
