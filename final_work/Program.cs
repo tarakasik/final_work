@@ -9,17 +9,17 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 string[] stringArray = new string[4] { "Hello", ":)", "Good", "3" };
-string[] array = new string[stringArray.Length];
+string[] myArray = new string[stringArray.Length];
 int count = 0;
 int size = 3;
 for (int i = 0; i<stringArray.Length; i++)
 {
     if (stringArray[i].Length <=size)
     {
-        array[count]=stringArray[i];  
+        myArray[count]=stringArray[i];  
         count++;   
     }
 }
 Console.Write($"[{String.Join(" ", stringArray)}] -> ");
-Console.Write($"[{String.Join(" ", array)}]");
+Console.Write($"[{String.Join(" ", myArray)}]");
 
